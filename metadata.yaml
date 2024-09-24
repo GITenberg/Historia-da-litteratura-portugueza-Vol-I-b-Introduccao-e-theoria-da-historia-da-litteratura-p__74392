@@ -1,0 +1,39 @@
+_repo: Historia-da-litteratura-portugueza-Vol-I-b-Introduccao-e-theoria-da-historia-da-litteratura-p__74392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Braga, Joaquim Teófilo Fernandes
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    - Braga, Theophilo
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga
+    - https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga
+description: ''
+gutenberg_issued: '2024-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74392'
+language: pt
+pgterms:marc904: https://archive.org/details/historiadalitter01braguoft/page/n5/mode/2up
+pgterms:marc905: 20240307162450braga
+pgterms:marc906: '1896'
+pgterms:marc907: PT
+production_note: Rita Farinha, Laura Natal, Alberto Manuel Brandão Simões and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive)
+publication_note: '  $aPorto :$bLivraria Chardron, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Historia da litteratura portugueza [Vol. I] : $b Introduccao e theoria da
+  historia da litteratura portugueza'
+url: http://www.gutenberg.org/ebooks/74392

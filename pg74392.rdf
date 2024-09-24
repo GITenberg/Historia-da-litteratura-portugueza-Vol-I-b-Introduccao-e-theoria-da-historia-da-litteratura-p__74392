@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/74392">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-08</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3929">
+        <pgterms:name>Braga, Teófilo</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1843</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1924</pgterms:deathdate>
+        <pgterms:alias>Braga, Joaquim Teófilo Fernandes</pgterms:alias>
+        <pgterms:alias>Fernandes Braga, Joaquim Theophilo</pgterms:alias>
+        <pgterms:alias>Braga, Joaquim Theophilo Fernandes</pgterms:alias>
+        <pgterms:alias>Braga, Theophilo</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga"/>
+        <pgterms:webpage rdf:resource="https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>Historia da litteratura portugueza [Vol. I] : $b Introduccao e theoria da historia da litteratura portugueza</dcterms:title>
+    <pgterms:marc260>  $aPorto :$bLivraria Chardron, $c1896.</pgterms:marc260>
+    <pgterms:marc508>Rita Farinha, Laura Natal, Alberto Manuel Brandão Simões and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/historiadalitter01braguoft/page/n5/mode/2up</pgterms:marc904>
+    <pgterms:marc905>20240307162450braga</pgterms:marc905>
+    <pgterms:marc906>1896</pgterms:marc906>
+    <pgterms:marc907>PT</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N05863a6a54a24761b31954809b8a642b">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">pt</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N7656e4badfb94c56ab69f9a57c1e2a93">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74392/74392-h/74392-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/74392"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">783672</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-08T14:16:14</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9f0ed630f5694b6a910f815b72ea66a8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74392/74392-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/74392"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677629</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-08T14:16:14</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4861d8fc8afd492eb1fd6d02154f26a3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga">
+    <dcterms:description>pt.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
