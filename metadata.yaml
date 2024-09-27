@@ -1,5 +1,8 @@
 _repo: Historia-da-litteratura-portugueza-Vol-I-b-Introduccao-e-theoria-da-historia-da-litteratura-p__74392
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74392-h/images/cover.jpg
 creator:
   author:
     agent_name: Braga, Teófilo
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga
     - https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74392#Historia-da-litteratura-portugueza-Vol-I-b-Introduccao-e-theoria-da-historia-da-litteratura-p_
 gutenberg_issued: '2024-09-08'
 gutenberg_type: Text
 identifiers:
